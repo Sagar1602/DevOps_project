@@ -1,7 +1,7 @@
-printhello world")
+print("hello world")
 
 print("this is the practicle of the git ")
 
 print("now we are going to do git pull")
 
-printhello jenkins - test for poll SCM")
+print("hello jenkins - test for poll SCM")
